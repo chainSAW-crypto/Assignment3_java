@@ -45,10 +45,3 @@ The Student Management System is a Java-based application designed to manage stu
 - **Student**: Contains student information variables like name, PRN, and includes a constructor to assign these variables to memory locations. It also contains all the getter and setter methods.
 - **StudentOperations**: Manages the operations such as add, display, search, update, and delete on student records.
 
-## Contributing
-
-Contributions to enhance the Student Management System are welcome. Please feel free to fork the repository, make improvements, and submit pull requests.
-
-## License
-
-This project is open-sourced under the MIT license.
